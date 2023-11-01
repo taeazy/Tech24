@@ -1,0 +1,152 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+background-image: url(e6bf2de900c37f66a41f3d23edfdb31d.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+    background-size: 1550px;
+    margin: 0;
+}
+ul{
+    margin: none;
+    padding-left: 50px;
+    margin-top: 0px;
+    list-style: none;
+    height: 45px;
+    text-align: center;
+    
+}
+li{
+    float: left;
+    margin-right: 60px;
+    margin-top: 20px;
+}
+a{
+    text-decoration: none;
+}
+header{
+    background-color: rgb(41, 40, 40);
+
+}
+li a{
+    color: white;
+}
+.Razdel{
+    text-align: center;
+    width: 170px;
+    border: 1px solid black;
+    margin-left: 10px;
+}
+.Razdel p a{
+    color: rgb(39, 38, 38);
+}
+.razer1{
+    text-align: center;
+    width: 200px;
+}
+.form1{
+    margin-left: 200px;
+    margin-top: -483px;
+    height: 485px;
+    background-color: white;
+}
+.Razdel{
+    margin-top: 50px;
+}
+legend{
+    background-color: white;
+}
+fieldset ul{
+    margin: none;
+    padding: 0;
+    margin-top: 0px;
+    list-style: none;
+}
+.bebe li a{
+color: black;
+}
+.ul2{
+    position: absolute;
+    display: none;
+    height: 140px;
+    border-radius: 20px;
+}
+li:hover .ul2{
+    display: block;
+    width: 300px;
+    background-color: rgb(41, 40, 40);
+}
+
+li:hover .ul2 .li1{
+    float: none;
+}
+.a12{
+    color: rgb(255, 255, 255);
+}
+.ul3{
+    position: absolute;
+    display: none;
+    height: 210px;
+    border-radius: 20px;
+}
+li:hover .ul3{
+    display: block;
+    width: 150px;
+    background-color: rgb(41, 40, 40);
+}
+
+li:hover .ul3 .li1{
+    float: none;
+}
+.scale {
+    transition: 0.3s;
+   }
+   .scale:hover {
+    transform: scale(1.1);
+   }
+   .divdost{
+    width: 800px;
+    margin-left: 40px;
+    font-size: large;
+    margin-left: 50px;
+    margin-top: 50px;
+   }
+   footer li a{
+    color: rgb(40, 35, 30);
+   }
+   .input1{
+    background-color: crimson;
+    border-radius: 30px;
+    color: white;
+    width: 300px;
+    text-align: center;
+    height: 50px;
+   }
+   footer ul{
+    margin: none;
+    padding-left: 20px;
+    margin-top: 5px;
+    list-style: none;
+    height: 120px;
+    text-align: center;
+    
+}
+footer li{
+    float: left;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.gg-instagram{
+    margin-top: -40px;
+}
+.gg-facebook{
+    margin-top: -40px;
+}
+.gg-youtube{
+    margin-top: -40px;
+}
+footer{
+    background-color: gainsboro;
+    height: 475px;
+}
